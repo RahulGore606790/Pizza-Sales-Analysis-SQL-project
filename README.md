@@ -5,7 +5,7 @@ This project focuses on analyzing pizza sales data using SQL (MySQL) to uncover 
 In today’s competitive food industry, data-driven decisions are crucial for improving sales performance, understanding customer behavior, and maximizing revenue.
 
 The analysis explores order trends, product performance, and revenue distribution to help businesses make strategic decisions.
-
+##
 🎯 Objectives
 📊 Calculate total orders and revenue
 🍕 Identify top-selling and highest-priced pizzas
@@ -15,7 +15,7 @@ The analysis explores order trends, product performance, and revenue distributio
 🗂️ Dataset Description
 
 The dataset consists of the following tables:
-
+##
 Table Name	Description
 orders	Order ID, date, and time
 order_details	Quantity of pizzas ordered
@@ -26,6 +26,7 @@ SQL (MySQL)
 Database Management
 Data Analysis Techniques
 Joins, Aggregations, Window Functions
+##
 📈 Key Analysis Performed
 🔹 Sales & Revenue Analysis
 Total revenue calculation using SUM(quantity * price)
@@ -48,6 +49,7 @@ Daily order patterns using window functions
 Top 3 pizzas by revenue per category
 Percentage contribution to total revenue
 Cumulative revenue over time
+##
 📊 Key Insights
 🍗 Chicken and Classic pizzas generate the highest revenue
 🥦 Veggie pizzas lead in overall order quantity
@@ -55,7 +57,7 @@ Cumulative revenue over time
 ⏰ Peak ordering time is afternoon to evening
 📈 Consistent daily order trends enable better forecasting
 ✅ Conclusion
-
+##
 This project demonstrates how SQL can transform raw data into actionable business insights.
 By analyzing customer preferences, sales patterns, and revenue drivers, businesses can:
 
@@ -63,6 +65,7 @@ Improve menu strategy
 Optimize pricing
 Enhance customer satisfaction
 Increase overall profitability
+##
 🚀 Future Improvements
 Build an interactive dashboard using Power BI / Tableau
 Implement predictive analysis for demand forecasting
@@ -134,7 +137,7 @@ Pizza-Sales-Analysis/
 
 ---
 
-
+##
 (Add screenshots of your SQL queries, outputs, or dashboard here)
 
 👨‍💻 Author
